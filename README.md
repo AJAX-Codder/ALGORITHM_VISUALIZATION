@@ -21,7 +21,7 @@
     WIREFRAMING
 <table>
   <tr>
-      <td align="center">
+      <td align="center" bgcolor="black">
         <h3>Home Screen</h3>
         <br/>
         <img src="https://user-images.githubusercontent.com/126388812/222180570-aa1ee2f9-e4ac-49c1-84c4-136a4c42e079.png"/>
