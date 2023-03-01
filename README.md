@@ -20,11 +20,11 @@
 <table>
   <tr>
       <td>
-Home Screen
+Home Screen<br/>
         <img src="https://user-images.githubusercontent.com/126388812/222180570-aa1ee2f9-e4ac-49c1-84c4-136a4c42e079.png"/>
     </td>
     <td>
-      DFS/OS Screen
+      DFS/OS Screen<br/>
       <img src="https://user-images.githubusercontent.com/126388812/222180676-e919d745-2b8c-4b50-b3ca-fb11757fe827.png"/>
     </td>
   </tr>
