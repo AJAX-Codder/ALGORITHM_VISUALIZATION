@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ALGORITHM_VISUALIZATION",
+    "slug": "ALGORITHM_VISUALIZATION",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/a8a32347b156a3a3f0ba80ecfcae1752",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
