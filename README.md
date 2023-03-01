@@ -6,7 +6,7 @@
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
 <pre>
-  ->	This is Cross-Platform application so that user can use this app by different devices which available .
+  ->  This is Cross-Platform application so that user can use this app by different devices which available .
   ->  Also, this is Online application so that multiple users can access this app at a time from different location... 
   ->  The aim of this application is to reduce the manual effort of developer and Programming student .
   ->  The system also give benefit  of quickly and easily understands the logic behind the problem-solving approach  (algorithms). 
