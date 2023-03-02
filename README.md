@@ -39,4 +39,7 @@
   </tr>
 </table>
 
-  ASSETS
+    ASSETS
+   <fieldset>
+    <legend>Personalia:</legend>
+    </fieldset>
