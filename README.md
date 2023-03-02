@@ -38,3 +38,5 @@
     </td>
   </tr>
 </table>
+
+  ASSETS
